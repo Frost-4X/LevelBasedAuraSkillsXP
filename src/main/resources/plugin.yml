@@ -1,0 +1,4 @@
+name: LevelBasedAuraSkillXP
+version: '${project.version}'
+main: net.wyveria.levelbasedauraskillxp.LevelBasedAuraSkillXP
+api-version: '1.21'
